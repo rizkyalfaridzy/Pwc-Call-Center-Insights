@@ -1,7 +1,7 @@
 # Pwc Call Center Insights
 PWC has a client that is looking to get insights from the calls data collected from their call center support system.
 
-![image](https://user-images.githubusercontent.com/89634505/211184516-857ef8bf-263a-4097-8999-317543c18823.png)
+![image]
 
 
 ## Call Center Trends
